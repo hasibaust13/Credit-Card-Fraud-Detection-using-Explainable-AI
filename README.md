@@ -1,2 +1,3 @@
-# Credit-Card-Fraud-Detection-using-Explanaible-AI
 Symbolic Machine Learning I Project
+
+Description: In this project, we model the sequence of transactions in handling credit card transactions using five traditional machine learning models with LIME methodology and demonstrate how it can be used to detect fraud. Five different types of classification models namely Decision Tree, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Random Forest, and XGBoost are used and the measurement of results by two-performance measures (accuracy and f1-score) is necessary to show the effectiveness of the classification prediction. Therefore, it is important to consider whether a model makes a particular prediction. Thus, we then train an interpretable LIME model for the sample based on its neighbors, this cardholder’s activity patterns, and the associated cross features
